@@ -1,0 +1,1 @@
+Binary search tree data structure that stores IDs in ascending order (Left to right)
